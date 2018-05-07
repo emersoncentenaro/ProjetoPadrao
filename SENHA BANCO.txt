@@ -1,0 +1,5 @@
+Pipo7268
+
+Acesso ao servidor
+ssh root@138.197.78.201 
+
